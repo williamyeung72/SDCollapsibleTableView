@@ -1,0 +1,22 @@
+{
+  "name": "SDCollapsibleTableView",
+  "version": "0.1.0",
+  "summary": "A short description of SDCollapsibleTableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/William Yeung/SDCollapsibleTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "William Yeung": "william.yeung@relaxops.com"
+  },
+  "source": {
+    "git": "https://github.com/William Yeung/SDCollapsibleTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDCollapsibleTableView/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module SDCollapsibleTableView {
+  umbrella header "SDCollapsibleTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

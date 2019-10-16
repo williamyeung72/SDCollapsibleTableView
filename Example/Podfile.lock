@@ -1,0 +1,16 @@
+PODS:
+  - SDCollapsibleTableView (0.1.0)
+
+DEPENDENCIES:
+  - SDCollapsibleTableView (from `../`)
+
+EXTERNAL SOURCES:
+  SDCollapsibleTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDCollapsibleTableView: f704aad471862b378dfc8000fdff43f88586d1a3
+
+PODFILE CHECKSUM: 393815bd4714bf9978933bcbd230dda805fb3cdf
+
+COCOAPODS: 1.8.3

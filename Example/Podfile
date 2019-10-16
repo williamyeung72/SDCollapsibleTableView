@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SDCollapsibleTableView_Example' do
+  pod 'SDCollapsibleTableView', :path => '../'
+
+  target 'SDCollapsibleTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
